@@ -1,0 +1,4 @@
+1- Solve 12 questions.
+2- Complete 2 lessons of sql.
+3- Revise past 7 sections of python.
+Task Completed!
